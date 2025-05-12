@@ -1,8 +1,10 @@
 
 # Fashion MNIST Data Classification Report
 
+May 18th, 2023
 **Author:** Hussein Abdulmohsin  
-**Course:** STAT426 Final Project 
+**Course:** STAT426 Final Project
+ 
 
 ---
 
