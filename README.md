@@ -2,8 +2,8 @@
 # Fashion MNIST Data Classification Report
 
 May 18th, 2023  
-**Author:** Hussein Sharifi   
-**Course:** STAT426 Final Project
+Hussein Sharifi   
+STAT426 Final Project
  
 
 ---
