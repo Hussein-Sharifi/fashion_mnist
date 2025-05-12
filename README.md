@@ -2,8 +2,7 @@
 # Fashion MNIST Data Classification Report
 
 **Author:** Hussein Abdulmohsin  
-**Professor:** Vince Lyzinski  
-**Course:** STAT426  
+**Course:** STAT426 Final Project 
 
 ---
 
